@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Expone el puerto 80 en el contenedor
-EXPOSE 80
+EXPOSE 8000
 
 # Define la variable de entorno FLASK_APP
 ENV FLASK_APP=main.py
