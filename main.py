@@ -40,7 +40,7 @@ def index():
     <html>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="card">
-        <img src="img.jpg" alt="John" style="width:100%">
+        <img src="https://scontent.fjau3-1.fna.fbcdn.net/v/t39.30808-6/434197167_954295129541986_8349706509575865870_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF0fc0I6fXZfOScQ2av-PqInrG9mLL1QBKesb2YsvVAEisBbaALEcE8l60aeJpObqAZxQwBNw8Bs9Jg-suwMX0I&_nc_ohc=F0ZC5Oxk6jAAX8SFHLZ&_nc_ht=scontent.fjau3-1.fna&oh=00_AfD6iILqd0VlwKHtKzvd74IKdkJ6ITAzsz0AxlS9UF8D3Q&oe=660987D4" alt="John" style="width:100%">
         <h1>John Doe</h1>
         <p class="title">CEO & Founder, Example</p>
         <p>Harvard University</p>
